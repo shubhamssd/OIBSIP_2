@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EasyCalculator</string>
+    <string name="_0">0</string>
+    <string name="calculator">Calculator</string>
+    <string name="zero">0</string>
+    <string name="divide">\\</string>
+    <string name="multiply">*</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="answer_here">Answer Here</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter">Enter Number</string>
+</resources>
